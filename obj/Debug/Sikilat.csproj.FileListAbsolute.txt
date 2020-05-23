@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\Sikilat\bin\Debug\Sikilat.exe.config
+C:\Users\TOSHIBA\source\repos\Sikilat\bin\Debug\Sikilat.exe
+C:\Users\TOSHIBA\source\repos\Sikilat\bin\Debug\Sikilat.pdb
+C:\Users\TOSHIBA\source\repos\Sikilat\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.exe
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.pdb
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.Form2.resources
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.FormMenu.resources
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.Form5.resources
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.Form1.resources
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.Form3.resources
+C:\Users\TOSHIBA\source\repos\Sikilat\obj\Debug\Sikilat.Form4.resources
